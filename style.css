@@ -1,3 +1,9 @@
+.brandcolor {
+	color: #fff;
+	background: #008080;
+}
+
+
 .box {
     min-height: 50px;
     padding: 5px;
